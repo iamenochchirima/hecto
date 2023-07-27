@@ -1,2 +1,2 @@
 # hecto
-A text editor in rust
+A text editor in Rust
